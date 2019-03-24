@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .white-section {
     padding: 100px 50px;
-    background: #FFFFFF;
+    background: rgb(255, 255, 255);
 }
 
 .grey-section {
@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 .blue-section {
     padding: 100px 50px;
     background: rgb(51, 102, 153);
-    color: #FFFFFF
+    color: rgb(255, 255, 255);
 }
 
 /* Nav Bar */
@@ -67,12 +67,12 @@ h1, h2, h3, h4, h5, h6 {
     padding: 100px 25px;
     background-image: url("../img/backgrounds/6.png");
     background-size: cover;
-    color: #FFFFFF;
+    color: rgb(255, 255, 255);
 }
 
 .title-banner h1 {
     margin-top: 25px;
-    color: #FFFFFF;
+    color: rgb(255, 255, 255);
 }
 
 /* Services */
