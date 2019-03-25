@@ -137,10 +137,6 @@ a {
 }
 
 /* Services */
-.ocs-service p {
-    line-height: 8px;
-}
-
 .ocs-service .icon {
     color: rgb(40, 80, 119);
     font-size: 50px;
