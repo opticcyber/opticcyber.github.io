@@ -35,6 +35,18 @@ h1, h2, h3, h4, h5, h6 {
 .blue-section {
     padding: 100px 50px;
     background: rgb(51, 102, 153);
+.black-section {
+    padding: 10px 10px;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.footer-text {
+    font-size: 12px;
+}
+
+.footer .icon {
+    font-size: 20px;
     color: rgb(255, 255, 255);
 }
 
