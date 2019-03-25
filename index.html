@@ -29,31 +29,21 @@
   <body>
 
     <!-- Top Navigation bar -->
-    <nav class="navbar navbar-dark fixed-top navbar-expand-md">
-        <div class="container wow fadeIn" data-wow-delay="0.75s">
-            <a class="navbar-brand" href="index.html">Optic Cyber Solutions</a>
+    <nav class="navbar fixed-top navbar-expand-md">
+        <div class="container" data-wow-delay="0.75s">
+            <a class="navbar-brand" href="index.html"><img src="img/logo/Blue-Left/logo 3 line.jpg" alt="Optic Cyber Solutions" height="60px"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link scroll-link" href="#title-banner">Top</a>
+                        <a class="nav-link scroll-link" href="#about-us">About</a>
                     </li>
                     <li class="nav-item">
-                            <a class="nav-link scroll-link" href="#about-us">About Us</a>
-                    </li>
+                        <a class="nav-link scroll-link" href="#services">Services</a>
                     <li class="nav-item">
-                            <a class="nav-link scroll-link" href="#services">Services</a>
-                    </li>
-                    <li class="nav-item">
-                            <a class="nav-link scroll-link" href="#outreach">Outreach</a>
-                    </li>
-                    <li class="nav-item">
-                            <a class="nav-link scroll-link" href="#resources">Resources</a>
-                    </li>
-                    <li class="nav-item">
-                            <a class="nav-link scroll-link" href="#contact">Contact</a>
+                        <a class="nav-link scroll-link" href="#contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -61,23 +51,26 @@
     </nav>
 
     <section id="title-banner" class="title-banner">
-        <div class="container text-center">
-            <h1 class="wow fadeInDownBig">Optic Cyber Solutions</h1>
-            <p class="wow fadeInLeftBig" data-wow-delay="0.25s">Applying the lens of cybersecurity to your business</p>
+        <div class="container">
+            <div class="row text-right">
+                <div class="col-8"></div>
+                <div class="col-4 slogan">
+                    <hr class="yellow-separator wow fadeInRight" data-wow-delay="0.65s" align="right">
+                    <p class="wow fadeInRight" data-wow-delay="0.2s">applying the lens of cybersecurity to your business</p>
+                </div>
+            </div>
         </div>
     </section>
 
-    <!-- This is to trigger the transition of the navigation bar from transparent to dark blue -->
-    <div id="scroll-waypoint"></div>
-
     <section id="services" class="white-section">
-        <div class="container">
+        <div class="container text-center">
             <h2>Helping you secure what matters most</h2>
             <p>Optic Cyber Solutions is uniquely suited to work with organizations to <strong>assess</strong> current security practices, <strong>identify</strong> gaps that may go unnoticed, and <strong>create</strong> risk-informed stratgies to mitigate cybersecurity threats.</p>
             <hr class="yellow-separator">
-
+            <br>
+            <br>
             <div class="row text-center">
-                <div class="ocs-service col-sm-4">
+                <div class="ocs-service col-4">
                     <i class="fas fa-check-double icon"></i>
                     <h3>Assessments</h3>
                     <p>Cybersecurity</p>
@@ -85,13 +78,13 @@
                     <p>Technical</p>
                     <p>Supply Chain</p>
                 </div>
-                <div class="ocs-service col-sm-4">
+                <div class="ocs-service col-4">
                     <i class="fas fa-wrench icon"></i>
                     <h3>Implementation</h3>
                     <p>Develop Security Stratgies</p>
                     <p>Implement Security Solutions</p>
                 </div>
-                <div class="ocs-service col-sm-4">
+                <div class="ocs-service col-4">
                     <i class="fas fa-chalkboard-teacher icon"></i>
                     <h3>Training</h3>
                     <p>Managing Risk</p>
@@ -102,14 +95,101 @@
         </div>
     </section>
 
+    <section id="about-us" class="blue-section">
+        <div class="text-center">
+            <h2>Our Team</h2>
+            <p>Our experts have decades of experience in cybersecurity, and have worked with organizations including the National Institute of Standards and Technology (NIST) and the Capability Maturity Model Integration (CMMI) Institute to develop cybersecurity frameworks, standards, and platforms.</p>
+            <hr class="yellow-separator">
+            <br><br>
+        </div>
+        <div id="team-member-carousel" class="carousel slide text-center" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#team-member-carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#team-member-carousel" data-slide-to="1"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                    <div class="row">
+                        <div class="col-1"><span></span></div>
+                        <div class="col-2">
+                            <img src="img/staff/Conkle.jpg" alt="Tom Conkle" class="img-thumbnail rounded-circle">
+                        </div>
+                        <div class="col-8 text-left">
+                            <h4>Tom Conkle, CISSP</h4>
+                            <h5>President & Co-Founder</h5>
+                            <p>During his 17 years of experience as a cybersecurity engineer, Tom has assisted organizations in assessing their cybersecurity effectiveness through formal security assessments using industry standards such as NIST SP 800-53, ISO 27001, HIPAA, SOC2, and the Cybersecurity Framework. Tom has assisted dozens of commercial and governmental organizations in implementing security requirements to address risk within the cybersecurity program. Tom is the co-author of ISACA’s guide for implementing the NIST Cybersecurity Framework, a book which assists organizations in connecting the principles of the Cybersecurity Framework and COBIT 5 to achieve an effective cybersecurity program. Additionally, he was a principle architect and subject matter expert in the development of the CMMI Cybermaturity Platform, a self-assessment SaaS tool that helps organizations identify a risk informed cybersecurity program and track their progress as the program is implemented.</p>
+                        </div>
+                        <div class="col-1"><span></span></div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-1"><span></span></div>
+                        <div class="col-2">
+                            <img src="img/staff/Hood.jpg" alt="Kelly Hood" class="img-thumbnail rounded-circle">
+                        </div>
+                        <div class="col-8 text-left">
+                            <h4>Kelly Hood, CISSP</h4>
+                            <h5>Executive Vice President & Co-Founder</h5>
+                            <p>Kelly supports organizations across sectors to develop and implement strategies to manage the cybersecurity risks to their business. Kelly also works with organizations to meet cybersecurity best practices, controls, and standards including the NIST Cybersecurity Framework, SP 800-53, SP 800-171, ISO 27001, and many others. As a member of the Cybersecurity Framework team at NIST, Kelly also assists in the evolution and outreach of the Cybersecurity Framework. Recently, Kelly has supported the CMMI Institute in their development and expansion of the CMMI Cybermaturity Platform. The patent pending approach she helped develop for CMMI translates cybersecurity risk to cybermaturity goals and identifies mitigation strategies to help organizations improve their cybersecurity capabilities.</p>
+                        </div>
+                        <div class="col-1"><span></span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Left & Right controls -->
+            <a class="carousel-control-prev" href="#team-member-carousel" role="button" data-slide="prev">
+                <i class="fas fa-chevron-left ocs-service-icon-small" alt="previous"></i>
+            </a>
+            <a class="carousel-control-next" href="#team-member-carousel" role="button" data-slide="next">
+                <i class="fas fa-chevron-right ocs-service-icon-small" alt="next"></i>
+            </a>
+        </div>
+    </section>
+
+    <section id="contact" class="white-section">
+        <div class="container">
+            <h2 class="text-center">CONTACT US</h2>
+            <hr class="yellow-separator">
+            <br>
+            <div class="row">
+                <div class="col-5">
+                    <p>Send us your questions and comments and someone will respond to you as soon as possible.</p>
+                    <p><i class="fas fa-envelope" alt="email"></i>&nbsp;info@opticcyber.com</p>
+                </div>
+                <div class="col-7">
+                    <div class="row">
+                        <div class="col-6 form-group">
+                            <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+                        </div>
+                        <div class="col-6 form-group">
+                            <input class="form-control" id="email" name="email" placeholder="Email" type="text" required>
+                        </div>
+                    </div>
+                    <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea>
+                    <br>
+                    <div class="row">
+                        <div class="col-12" form-group">
+                            <button class="btn btn-default pull-right" type="submit">Send</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section id="footer" class="black-section">
         <div class="footer container">
             <div class="row">
-                <div class="col-sm-9">
+                <div class="col-9">
                     <hr class="yellow-separator" align="left">
-                    <p class="footer-text"><i class="far fa-copyright"></i> 2019 Optic Cyber Solutions, LLC. All rights reserved</p>                
+                    <p><i class="far fa-copyright"></i> 2019 Optic Cyber Solutions, LLC. All rights reserved</p>                
                 </div>
-                <div class="col-sm-3 text-right">
+                <div class="col-3 text-right">
                     <br>
                     <a href="https://www.twitter.com/opticcyber_" target="_blank"><i class="fab fa-twitter icon" alt="Twitter: @OpticCyber_"></i></a>
                     &nbsp;
