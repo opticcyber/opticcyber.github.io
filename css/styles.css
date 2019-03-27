@@ -72,15 +72,10 @@ a {
 
 /* Nav Bar */
 .navbar {
-    /* -o-transition: all .6s; */
-    /* -moz-transition: all .6s; */
-    /* -webkit-transition: all .6s; */
-    /* -ms-transition: all .6s; */
-    /* backface-visibility: hidden; */
     margin-bottom: 0;
     z-index: 9999;
     border: 0;
-    font-size: 16px !important;
+    font-size: 18px !important;
     line-height: 1.42857143 !important;
     letter-spacing: 4px;
     border-radius: 0;
@@ -93,12 +88,6 @@ a {
 }
 
 /* Carousel */
-.carousel-control-prev,
-.carousel-control-next {
-    /* align-items: flex-start;; */
-    background-image: none;
-}
-
 .carousel-inner {
     margin-bottom: 20px;
 }
@@ -117,10 +106,29 @@ a {
     background-color: rgb(230, 188, 51);
 }
 
+.carousel-control-prev .icon,
+.carousel-control-next .icon {
+    font-size: 25px;
+}
+
+.carousel-control-prev .icon:hover,
+.carousel-control-next .icon:hover {
+    color: rgb(230, 188, 51);
+}
+
+/* .img-fluid {
+    display: inline-block;
+    border: 0px;
+    border-color: rgb(84, 125, 165);
+} */
+
 /* Top Banner */
 .title-banner {
     padding: 150px 25px;
     background-image: url("../img/backgrounds/Shutterstock.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
     background-size: cover;
     color: rgb(255, 255, 255);
 }
@@ -146,7 +154,6 @@ a {
 .yellow-separator {
     width: 100px;
     height: 2px;
-    /* text-align: center; */
     background-color: rgb(230, 188, 51);
 }
 
