@@ -1,0 +1,167 @@
+/* Copyright (C) Optic Cyber Solutions, LLC. All Rights Reserved. */
+
+/* Site-wide styles */
+body {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: black;
+}
+
+strong {
+    font-weight: 600;
+}
+
+a, a:hover, a:focus {
+    color: rgb(40, 80, 119);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    color: rgb(40, 80, 119);
+    text-transform: uppercase;
+}
+
+a {
+    font-family: "Montserrat", sans-serif;
+    color: rbg(40, 80, 119);
+}
+
+.white-section {
+    padding: 100px 50px;
+    background: rgb(255, 255, 255);
+}
+
+.grey-section {
+    padding: 100px 50px;
+    background: rgb(218, 218, 218);
+}
+
+.blue-section {
+    padding: 100px 50px;
+    background: rgb(40, 80, 119);
+    color: rgb(255, 255, 255);
+}
+
+.blue-section h1, 
+.blue-section h2, 
+.blue-section h3, 
+.blue-section h4, 
+.blue-section h5, 
+.blue-section h6 {
+    color: rgb(255, 255, 255);
+}
+
+.black-section {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+/* Footer */
+.footer {
+    padding: 10px 10px;
+    font-size: 12px;
+}
+
+/* FontAwesome icons in footer */
+.footer .icon {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.footer .nav-icon {
+    font-size: 20px;
+    color: rgb(230, 188, 51);
+}
+
+/* Nav Bar */
+.navbar {
+    margin-bottom: 0;
+    z-index: 9999;
+    border: 0;
+    font-size: 18px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    text-transform: uppercase;
+    background: rgb(255, 255, 255);
+}
+
+.navbar a {
+    font-weight: 600;
+}
+
+.navbar .toggler-icon {
+    font-size: 35px;
+    color: rgb(40, 80, 119);
+}
+
+/* Carousel */
+.carousel-inner {
+    margin-bottom: 20px;
+}
+
+.carousel-indicators {
+    bottom: -20px;
+}
+
+.carousel-indicators li {
+    margin-top: 25px;
+    border-color: rgb(230, 188, 51);
+}
+
+.carousel-indicators li.active {
+    margin-top: 25px;
+    background-color: rgb(230, 188, 51);
+}
+
+.carousel-control-prev .icon,
+.carousel-control-next .icon {
+    font-size: 25px;
+}
+
+.carousel-control-prev .icon:hover,
+.carousel-control-next .icon:hover {
+    color: rgb(230, 188, 51);
+}
+
+.img-thumbnail {
+    padding: 2px;
+}
+
+/* Top Banner */
+.title-banner {
+    padding: 150px 25px;
+    background-image: url("../img/banner_50.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
+
+.title-banner h1 {
+    margin-top: 25px;
+    color: rgb(255, 255, 255);
+}
+
+.title-banner .slogan {
+    padding: 300px 0px 0px;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+/* Services */
+.ocs-service .icon {
+    color: rgb(40, 80, 119);
+    font-size: 50px;
+}
+
+/* Features */
+.yellow-separator {
+    width: 100px;
+    height: 2px;
+    background-color: rgb(230, 188, 51);
+}
