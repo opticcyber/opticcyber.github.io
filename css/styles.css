@@ -71,6 +71,11 @@ a {
     color: rgb(255, 255, 255);
 }
 
+.footer .nav-icon {
+    font-size: 20px;
+    color: rgb(230, 188, 51);
+}
+
 /* Nav Bar */
 .navbar {
     margin-bottom: 0;
