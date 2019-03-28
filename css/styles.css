@@ -86,6 +86,11 @@ a {
     font-weight: 600;
 }
 
+.navbar .toggler-icon {
+    font-size: 35px;
+    color: rgb(40, 80, 119);
+}
+
 /* Carousel */
 .carousel-inner {
     margin-bottom: 20px;
