@@ -137,12 +137,55 @@ a {
 }
 
 /* Top Banner */
+
+/* iPhone SE */
+@media only screen and (max-width: 320px) {
+    .title-banner {
+        /* padding: 70px 25px; */
+        padding: 370px 0px 0px;
+        background-position-x: -350px;
+    }
+
+    .title-banner .slogan {
+        padding: 0px 30px 100px 120px;
+        font-size: 20px;
+    }
+}
+
+/*
+    Other phones, up to iPhone 8+ (414 points wide)
+    Leave some extra space for potentially wider phones
+*/
+@media only screen and (min-width: 321px)
+                   and (max-width: 450px) {
+    .title-banner {
+        padding: 390px 0px 0px;
+        background-position-x: -410px;
+    }
+
+    .title-banner .slogan {
+        padding: 0px 30px 100px 150px;
+        font-size: 28px;
+    }
+}
+
+/* Anything wider than a phone */
+@media only screen and (min-width: 451px) {
+    .title-banner {
+        padding: 425px 0px 0px;
+        background-position: center;
+    }
+
+    .title-banner .slogan {
+        padding: 0px 50px 100px 50px;
+        font-size: 28px;
+    }
+}
+
 .title-banner {
-    padding: 150px 25px;
-    background-image: url("../img/banner_50.jpg");
+    width: 100%;
     background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
+    background-image: url("../img/banner_50.jpg");
     background-size: cover;
     color: rgb(255, 255, 255);
 }
@@ -153,8 +196,6 @@ a {
 }
 
 .title-banner .slogan {
-    padding: 300px 0px 0px;
-    font-size: 28px;
     font-weight: 600;
 }
 
