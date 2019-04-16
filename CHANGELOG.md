@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.3.0] - 2019-04-15
+### Changed
+- Adjusted left and right padding for wide displays
+
 ## [1.2.0] - 2019-04-15
 ### Added
 - Site favicon
@@ -25,7 +29,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/1.2.0...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/1.3.0...HEAD
+[1.3.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.3.0
 [1.2.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.2.0
 [1.1.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.1.0
 [1.0.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.0.0
