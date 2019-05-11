@@ -64,6 +64,14 @@ a {
     color: rgb(255, 255, 255);
 }
 
+.blue-bg {
+    padding: 150px 50px;
+    background-repeat: no-repeat;
+    background-image: url("../img/blue_bg.png");
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
+
 /* Footer */
 .footer {
     padding: 10px 10px;
