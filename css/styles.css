@@ -64,6 +64,15 @@ a {
     color: rgb(255, 255, 255);
 }
 
+.bridge-banner {
+    width: 100%;
+    padding: 425px 0px 0px;
+    background-repeat: no-repeat;
+    background-image: url("../img/bridge.png");
+    background-size: cover;
+    /* background-position-y: -350px; */
+}
+
 /* Footer */
 .footer {
     padding: 10px 10px;
@@ -109,7 +118,7 @@ a {
 }
 
 .carousel-indicators {
-    bottom: -20px;
+    bottom: -35px;
 }
 
 .carousel-indicators li {
@@ -164,7 +173,7 @@ a {
     }
 
     .title-banner .slogan {
-        padding: 0px 30px 100px 150px;
+        padding: 0px 20px 100px 150px;
         font-size: 28px;
     }
 }
@@ -177,12 +186,12 @@ a {
     }
 
     .title-banner .slogan {
-        padding: 0px 50px 100px 50px;
+        padding: 0px 20px 100px 50px;
         font-size: 28px;
     }
 }
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1281px) {
     .container {
         padding-left: 300px;
         padding-right: 300px;
