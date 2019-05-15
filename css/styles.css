@@ -64,12 +64,13 @@ a {
     color: rgb(255, 255, 255);
 }
 
-.blue-bg {
-    padding: 150px 50px;
+.bridge-banner {
+    width: 100%;
+    padding: 425px 0px 0px;
     background-repeat: no-repeat;
-    background-image: url("../img/blue_bg.png");
+    background-image: url("../img/bridge.png");
     background-size: cover;
-    color: rgb(255, 255, 255);
+    /* background-position-y: -350px; */
 }
 
 /* Footer */
@@ -190,7 +191,7 @@ a {
     }
 }
 
-@media only screen and (min-width: 1920px) {
+@media only screen and (min-width: 1281px) {
     .container {
         padding-left: 300px;
         padding-right: 300px;
