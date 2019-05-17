@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.4.0] - 2019-05-14
 ### Added
+- Drop shadow on navbar
 - Events on homepage
 - About Us page
 
