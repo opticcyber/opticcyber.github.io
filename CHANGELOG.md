@@ -6,9 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.5.0] - 2019-05-16
+- Google Analytics Website Tracking
+- Drop shadow on navbar
+
 ## [1.4.0] - 2019-05-14
 ### Added
-- Drop shadow on navbar
 - Events on homepage
 - About Us page
 
@@ -39,7 +42,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/1.4.0...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/1.5.0...HEAD
+[1.5.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.5.0
 [1.4.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.4.0
 [1.3.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.3.0
 [1.2.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.2.0
