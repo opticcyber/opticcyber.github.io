@@ -8,27 +8,22 @@ jQuery(document).ready(function() {
     new WOW().init();
 
     /*
-        Smooth scrolling from navbar and footer links
+        Smooth scrolling for anchors
     */
-    $(".navbar a, .footer a").on('click', function(event) {
-        // Verify there is a hash value on the link (href="#*")
-        if(this.hash !== "") {
-            // console.log(this.hash);
-
-            // Prevent default anchor click behavior
-            event.preventDefault();
-
-            // Store the hash value
-            var hash = this.hash;
-
-            // jQuery animate to smoothly scroll
-            // 900 is the time in milliseconds it takes to scroll
-            $('html, body').animate({
-                scrollTop: $(hash).offset().top
-            }, 900, function(){
-                // Restore hash in URL (default click behavior)
-                window.location.hash = hash;
-            });
+    $('a.smooth-scroll').on('click', function(event) {
+        if (
+                window.location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
+            &&  window.location.hostname == this.hostname
+        ) {
+            var target = this.hash;
+            target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+            if (target.length) {
+                $('html,body').animate({
+                    scrollTop: $(target).offset().top - 70
+                }, 900);
+                return false;
+            } // end if
         } // end if
     });
+
 })
