@@ -1,12 +1,24 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+New deployments of the website are considered releases, which are versioned by
+year and release number, such as `2019.01` to represent the first release of
+2019.
 
 ## [Unreleased]
 
+## [2019.07]
+### Added
+- Resources page with links to informational webinars and downloadable templates
+  for using the NIST Cybersecurity Framework
+
+### Changed
+- Version numbering will now be handled by a year+release number, in the form
+  `YYYY.RR`. Previous tags and releases will **not** be adjusted to this format.
+
 ## [1.5.0] - 2019-05-16
+### Added
 - Google Analytics Website Tracking
 - Drop shadow on navbar
 
@@ -42,7 +54,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/1.5.0...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.07...HEAD
+[2019.07]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.07
 [1.5.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.5.0
 [1.4.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.4.0
 [1.3.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.3.0
