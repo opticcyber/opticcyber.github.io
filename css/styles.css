@@ -31,7 +31,14 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
     font-family: "Montserrat", sans-serif;
-    color: rbg(40, 80, 119);
+    color: rgb(40, 80, 119);
+}
+
+.btn, .btn:hover, .btn:active, .btn:focus {
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(40, 80, 119);
+    text-decoration: none;
 }
 
 .white-section {
@@ -55,7 +62,8 @@ a {
 .blue-section h3, 
 .blue-section h4, 
 .blue-section h5, 
-.blue-section h6 {
+.blue-section h6,
+.blue-section a {
     color: rgb(255, 255, 255);
 }
 
@@ -110,6 +118,11 @@ a {
 .navbar .toggler-icon {
     font-size: 35px;
     color: rgb(40, 80, 119);
+}
+
+.nav-item .active {
+    text-decoration: none;
+    border-bottom: 2px solid;
 }
 
 /* Carousel */
