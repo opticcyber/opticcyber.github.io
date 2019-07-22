@@ -41,6 +41,13 @@ a {
     text-decoration: none;
 }
 
+.blue-banner {
+    padding-top: 100px;
+    padding-bottom: 0px;
+    background: rgb(40, 80, 119);
+    color: rgb(255, 255, 255);
+}
+
 .white-section {
     padding: 100px 50px;
     background: rgb(255, 255, 255);
@@ -168,7 +175,7 @@ a {
         background-position-x: -350px;
     }
 
-    .title-banner .slogan {
+    .slogan {
         padding: 0px 30px 100px 120px;
         font-size: 20px;
     }
@@ -185,7 +192,7 @@ a {
         background-position-x: -410px;
     }
 
-    .title-banner .slogan {
+    .slogan {
         padding: 0px 20px 100px 150px;
         font-size: 28px;
     }
@@ -198,7 +205,7 @@ a {
         background-position: center;
     }
 
-    .title-banner .slogan {
+    .slogan {
         padding: 0px 20px 100px 50px;
         font-size: 28px;
     }
@@ -231,7 +238,7 @@ a {
     color: rgb(255, 255, 255);
 }
 
-.title-banner .slogan {
+.slogan {
     font-weight: 600;
 }
 
