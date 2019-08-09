@@ -8,6 +8,10 @@ year and release number, such as `2019.01` to represent the first release of
 
 ## [Unreleased]
 
+## [2019.09]
+### Added
+- RSA blog post
+
 ## [2019.08]
 ### Added
 - Upcoming speaking event
@@ -58,7 +62,8 @@ year and release number, such as `2019.01` to represent the first release of
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.08...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.09...HEAD
+[2019.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.09
 [2019.08]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.08
 [2019.07]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.07
 [1.5.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.5.0
