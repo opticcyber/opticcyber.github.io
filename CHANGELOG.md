@@ -8,6 +8,15 @@ year and release number, such as `2019.01` to represent the first release of
 
 ## [Unreleased]
 
+## [2019.11]
+### Added
+- Link to CMMI Platform Workshop
+
+### Changed
+- Update CNAME to point at www.opticcyber.com
+- Dynamic year generation for copyright message
+- RSA Webinar link moved to YouTube
+
 ## [2019.10]
 ### Fixed
 - Typos
@@ -66,7 +75,8 @@ year and release number, such as `2019.01` to represent the first release of
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.10...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.11...HEAD
+[2019.11]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.11
 [2019.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.10
 [2019.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.09
 [2019.08]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.08
