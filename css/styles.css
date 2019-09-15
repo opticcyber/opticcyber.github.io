@@ -266,6 +266,13 @@ a {
     font-size: 50px;
 }
 
+.service-summary {
+    color: rgb(40, 80, 119);
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+}
+
 /* Features */
 .yellow-separator {
     width: 100px;
