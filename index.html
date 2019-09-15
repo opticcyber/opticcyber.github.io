@@ -47,28 +47,31 @@
     <body>
 
         <!-- Top Navigation bar -->
-        <nav class="navbar fixed-top navbar-expand-md shadow">
-            <div class="container" data-wow-delay="0.75s">
-                <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="Optic Cyber Solutions" height="60px"></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <i class="fas fa-bars toggler-icon"></i>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" href="about-us.html">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link smooth-scroll" href="#services">Services</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="resources.html">Resources</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link smooth-scroll" href="#contact">Contact</a>
-                        </li>
-                    </ul>
-                </div>
+        <nav class="navbar navbar-expand-md shadow">
+            <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="Optic Cyber Solutions" height="60px"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars toggler-icon"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="about-us.html">About</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="services/assessments.html">Assessments</a>
+                            <a class="dropdown-item" href="services/implementation.html">Implementation</a>
+                            <a class="dropdown-item" href="services/advising.html">Advising</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="resources.html">Resources</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link smooth-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
             </div>
         </nav>
 
@@ -93,8 +96,10 @@
                 <br>
                 <div class="row text-center">
                     <div class="ocs-service col-lg-4 col-md-12">
-                        <i class="fas fa-check-double icon"></i>
-                        <h3>Assessments</h3>
+                        <a href="services/assessments.html">
+                            <i class="fas fa-check-double icon"></i>
+                            <h3>Assessments</h3>
+                        </a>
                         <p>
                             Cybersecurity Framework
                             <br>
@@ -106,8 +111,10 @@
                         </p>
                     </div>
                     <div class="ocs-service col-lg-4 col-md-12">
-                        <i class="fas fa-wrench icon"></i>
-                        <h3>Implementation</h3>
+                        <a href="services/implementation.html">
+                            <i class="fas fa-wrench icon"></i>
+                            <h3>Implementation</h3>
+                        </a>
                         <p>
                             Security Solutions
                             <br>
@@ -115,8 +122,10 @@
                         </p>
                     </div>
                     <div class="ocs-service col-lg-4 col-md-12">
-                        <i class="fas fa-chalkboard-teacher icon"></i>
-                        <h3>Advising</h3>
+                        <a href="services/advising.html">
+                            <i class="fas fa-chalkboard-teacher icon"></i>
+                            <h3>Advising</h3>
+                        </a>
                         <p>
                             Consulting
                             <br>
