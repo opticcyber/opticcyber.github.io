@@ -132,6 +132,14 @@ a {
     border-bottom: 2px solid;
 }
 
+.navbar .dropdown-menu {
+    border: 0px;
+}
+
+.navbar .dropdown-item {
+    color: rgb(40, 80, 119);
+}
+
 /* Carousel */
 .carousel-inner {
     margin-bottom: 20px;
@@ -216,6 +224,11 @@ a {
         padding-left: 300px;
         padding-right: 300px;
     }
+
+    .navbar {
+        padding-left: 300px;
+        padding-right: 300px;
+    }
 }
 
 @media only screen and (min-width: 2500px) {
@@ -223,6 +236,11 @@ a {
         padding-left: 700px;
         padding-right: 700px;
     }
+
+    .navbar {
+        padding-left: 700px;
+        padding-right: 700px;
+    }    
 }
 
 .title-banner {
