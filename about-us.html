@@ -48,39 +48,42 @@
 
         <!-- Top Navigation bar -->
         <nav class="navbar fixed-top navbar-expand-md shadow">
-            <div class="container" data-wow-delay="0.75s">
-                <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="Optic Cyber Solutions" height="60px"></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <i class="fas fa-bars toggler-icon"></i>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" href="about-us.html">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link smooth-scroll" href="index.html#services">Services</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="resources.html">Resources</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link smooth-scroll" href="index.html#contact">Contact</a>
-                        </li>
-                    </ul>
-                </div>
+            <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="Optic Cyber Solutions" height="60px"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars toggler-icon"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="about-us.html">About</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="services/assessments.html">Assessments</a>
+                            <a class="dropdown-item" href="services/implementation.html">Implementation</a>
+                            <a class="dropdown-item" href="services/advising.html">Advising</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="resources.html">Resources</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link smooth-scroll" href="index.html#contact">Contact</a>
+                    </li>
+                </ul>
             </div>
         </nav>
 
         <!-- Top blue bar -->
-        <div class="container bridge-banner"><span></span></div>
+        <div class="container bridge-banner" id="bridge-banner"><span></span></div>
 
         <section id="whoweare">
             <div class="container white-section">
                 <div class="row text-left">
                     <div class="col-12">
                         <h3>
-                            <img src="/img/icon/favicon-194x194.png" width="50px" alt="Optic Logo">
+                            <img src="img/icon/favicon-194x194.png" width="50px" alt="Optic Logo">
                             &nbsp;<font color="#E6BC33">&vert;</font>&nbsp;&nbsp;Who We Are
                         </h3>
                         <p>Optic Cyber Solutions applies the lens of cybersecurity to your business.</p>
@@ -100,7 +103,7 @@
                             &nbsp;<font color="#E6BC33">&vert;</font>&nbsp;What We Do
                         </h3>
                         <p>As the frequency of cybersecurity incidents continues to increase, organizations must be able to identify threats and mitigate the vulnerabilities that are most likely to impact their business. Organizations are also increasingly pressured to meet evolving cybersecurity regulations and provide appropriate protections for their critical assets.</p>
-                        <p>To support these challenges, Optic Cyber Solutions provides services including cybersecurity assessments, implementation support, and training. These services focus on incorporating cybersecurity requirements at each stage of building a new capability while still enabling organizations to achieve their business goals.</p>
+                        <p>To support these challenges, Optic Cyber Solutions provides services including <u><a href="services/assessments.html">cybersecurity assessments</a></u>, <u><a href="services/implementation.html">implementation support</a></u>, and <u><a href="services/advising.html">advising services</a></u>. These services focus on incorporating cybersecurity requirements at each stage of building a new capability while still enabling organizations to achieve their business goals.</p>
                     </div>
                 </div>
             </div>
@@ -179,7 +182,7 @@
             <div class="footer container black-section">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <a class="smooth-scroll" href="#title-banner"><i class="fas fa-chevron-up nav-icon" alt="top"></i></a>
+                        <a class="smooth-scroll" href="#bridge-banner"><i class="fas fa-chevron-up nav-icon" alt="top"></i></a>
                     </div>
                 </div>
                 <div class="row">
