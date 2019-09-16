@@ -8,6 +8,21 @@ year and release number, such as `2019.01` to represent the first release of
 
 ## [Unreleased]
 
+## [2019.12]
+### Added
+- November ISACA-CMC Meeting link
+- New pages for services
+  - Advising
+  - Assessments
+  - Implementation
+
+### Changed
+- Wording of services
+
+### Fixed
+- "Top of page" buttons at page bottoms correctly scroll to the top
+- "Contact Us" link now always goes to home page contact section
+
 ## [2019.11]
 ### Added
 - Link to CMMI Platform Workshop
@@ -75,7 +90,8 @@ year and release number, such as `2019.01` to represent the first release of
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.11...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.12...HEAD
+[2019.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.12
 [2019.11]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.11
 [2019.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.10
 [2019.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.09
