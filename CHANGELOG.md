@@ -8,6 +8,11 @@ year and release number, such as `2019.01` to represent the first release of
 
 ## [Unreleased]
 
+## [2019.13]
+### Fixed
+- Icon
+- Typos
+
 ## [2019.12]
 ### Added
 - November ISACA-CMC Meeting link
@@ -90,7 +95,8 @@ year and release number, such as `2019.01` to represent the first release of
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.12...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.13...HEAD
+[2019.13]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.13
 [2019.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.12
 [2019.11]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.11
 [2019.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.10
