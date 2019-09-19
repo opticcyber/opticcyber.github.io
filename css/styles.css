@@ -256,6 +256,10 @@ a {
     color: rgb(255, 255, 255);
 }
 
+.footer a {
+    color: rgb(255, 255, 255);
+}
+
 .slogan {
     font-weight: 600;
 }
