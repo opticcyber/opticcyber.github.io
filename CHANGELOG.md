@@ -7,6 +7,8 @@ year and release number, such as `2019.01` to represent the first release of
 2019.
 
 ## [Unreleased]
+
+## [2019.14]
 ### Added
 - Email link in footer
 
@@ -100,7 +102,8 @@ year and release number, such as `2019.01` to represent the first release of
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.13...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.14...HEAD
+[2019.14]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.14
 [2019.13]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.13
 [2019.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.12
 [2019.11]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.11
