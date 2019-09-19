@@ -7,6 +7,11 @@ year and release number, such as `2019.01` to represent the first release of
 2019.
 
 ## [Unreleased]
+### Added
+- Email link in footer
+
+### Changed
+- Services wording
 
 ## [2019.13]
 ### Fixed
