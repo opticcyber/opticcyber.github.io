@@ -8,6 +8,10 @@ year and release number, such as `2019.01` to represent the first release of
 
 ## [Unreleased]
 
+## [2019.15]
+### Changed
+- Privacy Framework image on homepage
+
 ## [2019.14]
 ### Added
 - Email link in footer
@@ -102,7 +106,8 @@ year and release number, such as `2019.01` to represent the first release of
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.14...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.15...HEAD
+[2019.15]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.15
 [2019.14]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.14
 [2019.13]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.13
 [2019.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.12
