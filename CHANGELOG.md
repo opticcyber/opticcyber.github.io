@@ -8,6 +8,13 @@ year and release number, such as `2019.01` to represent the first release of
 
 ## [Unreleased]
 
+## [2019.16]
+### Added
+- CMMI-CP page
+
+### Changed
+- Spacing for some text
+
 ## [2019.15]
 ### Changed
 - Privacy Framework image on homepage
@@ -106,7 +113,8 @@ year and release number, such as `2019.01` to represent the first release of
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.15...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.16...HEAD
+[2019.16]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.16
 [2019.15]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.15
 [2019.14]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.14
 [2019.13]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.13
