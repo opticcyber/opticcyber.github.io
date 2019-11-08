@@ -8,6 +8,10 @@ year and release number, such as `2019.01` to represent the first release of
 
 ## [Unreleased]
 
+## [2019.18]
+### Changed
+- Text Fixes
+
 ## [2019.17]
 ### Added
 - Additional link to CMMI-CP
@@ -117,7 +121,8 @@ year and release number, such as `2019.01` to represent the first release of
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.17...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.18...HEAD
+[2019.18]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.18
 [2019.17]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.17
 [2019.16]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.16
 [2019.15]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.15
