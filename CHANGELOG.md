@@ -8,6 +8,13 @@ year and release number, such as `2019.01` to represent the first release of
 
 ## [Unreleased]
 
+## [2019.20]
+### Added
+- InfoSec World 2020 Session promo
+
+### Removed
+- InfoSec World 2019 Session promo
+
 ## [2019.19]
 ### Added
 - Resilience Through Cybermaturity Session promo
@@ -126,7 +133,8 @@ year and release number, such as `2019.01` to represent the first release of
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.19...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.20...HEAD
+[2019.20]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.20
 [2019.19]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.19
 [2019.18]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.18
 [2019.17]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.17
