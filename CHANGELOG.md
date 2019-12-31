@@ -12,6 +12,9 @@ year and release number, such as `2019.01` to represent the first release of
 ### Added
 - InfoSec World 2020 Session promo
 
+## Changed
+- Moved events from Upcoming to past
+
 ### Removed
 - InfoSec World 2019 Session promo
 
