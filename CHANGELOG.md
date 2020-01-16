@@ -11,6 +11,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ### Added
 - RSA Conference Panel info
+- MyTechMag Article
 
 ### Changed
 - Update Copyright date
