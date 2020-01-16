@@ -15,6 +15,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ### Changed
 - Update Copyright date
+- Grid layout on Resources page
 
 ## [2019.20]
 ### Added
