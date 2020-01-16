@@ -1,12 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
-New deployments of the website are considered releases, which are versioned by
-year and release number, such as `2019.01` to represent the first release of
-2019.
+Log format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+New deployments of the website are considered releases, and are versioned in the
+format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
+### Fixed
+- Typos
 
 ## [2019.20]
 ### Added
