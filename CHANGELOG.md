@@ -9,12 +9,15 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Fixed
 - Typos
 
+### Changed
+- Update Copyright date
+
 ## [2019.20]
 ### Added
 - InfoSec World 2020 Session promo
 
 ## Changed
-- Moved events from Upcoming to past
+- Move events from Upcoming to past
 
 ### Removed
 - InfoSec World 2019 Session promo
