@@ -8,6 +8,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ## [Unreleased]
 ### Fixed
 - Typos
+- Broken link to RSA Blog post
 
 ### Added
 - RSA Conference Panel info
