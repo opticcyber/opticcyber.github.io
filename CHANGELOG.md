@@ -6,15 +6,26 @@ New deployments of the website are considered releases, and are versioned in the
 format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
+
+## [2020.01]
 ### Fixed
 - Typos
+- Broken link to RSA Blog post
+
+### Added
+- RSA Conference Panel info
+- MyTechMag Article
+
+### Changed
+- Update Copyright date
+- Grid layout on Resources page
 
 ## [2019.20]
 ### Added
 - InfoSec World 2020 Session promo
 
 ## Changed
-- Moved events from Upcoming to past
+- Move events from Upcoming to past
 
 ### Removed
 - InfoSec World 2019 Session promo
@@ -137,7 +148,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2019.20...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.01...HEAD
+[2020.01]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.01
 [2019.20]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.20
 [2019.19]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.19
 [2019.18]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.18
