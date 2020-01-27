@@ -6,6 +6,11 @@ New deployments of the website are considered releases, and are versioned in the
 format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
+### Added
+- Operationalizing Cybersecurity Article
+
+### Changed
+- Resources page Grid layout
 
 ## [2020.01]
 ### Fixed
