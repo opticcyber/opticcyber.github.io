@@ -7,6 +7,16 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2020.04]
+### Added
+- RSA Speaking event
+
+### Changed
+- Reorder 2019 Speaking Engagements to chronological order
+
+### Removed
+- Capability Counts 2019 homepage slide (still available on Resources)
+
 ## [2020.03]
 ### Changed
 - Assessments Page language
@@ -159,7 +169,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.03...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.04...HEAD
+[2020.04]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.04
 [2020.03]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.03
 [2020.02]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.02
 [2020.01]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.01
