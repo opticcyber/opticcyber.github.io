@@ -7,6 +7,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2020.06]
+### Changed
+- NIST Cybersecurity Framework Explained link
+
 ## [2020.05]
 ### Added
 - ITMA & WMCSC Promos
@@ -173,7 +177,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.05...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.06...HEAD
+[2020.06]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.06
 [2020.05]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.05
 [2020.04]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.04
 [2020.03]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.03
