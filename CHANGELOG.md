@@ -1,4 +1,5 @@
 # Changelog
+
 All notable changes to this project will be documented in this file.
 
 Log format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
@@ -6,6 +7,13 @@ New deployments of the website are considered releases, and are versioned in the
 format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
+
+## [2020.07]
+### Added
+- Blog Post: The Importance of Preparing for Ransomware
+
+### Changed
+- Changed date for InfoSecWorld 2020 Session
 
 ## [2020.06]
 ### Changed
@@ -177,7 +185,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.06...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.07...HEAD
+[2020.07]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.07
 [2020.06]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.06
 [2020.05]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.05
 [2020.04]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.04
