@@ -9,6 +9,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ## [Unreleased]
 ### Changed
 - Updated Speaking Engagements
+- About Us text
 
 ## [2020.10]
 ### Added
