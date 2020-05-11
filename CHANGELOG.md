@@ -7,6 +7,8 @@ New deployments of the website are considered releases, and are versioned in the
 format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
+### Changed
+- Blog Post URL
 
 ## [2020.09]
 ### Changed
