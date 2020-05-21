@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2020.12]
+### Added
+- NIST CSF & Privacy Framework Template
+
 ## [2020.11]
 ### Changed
 - Updated Speaking Engagements
@@ -206,7 +210,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.11...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.12...HEAD
+[2020.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.12
 [2020.11]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.11
 [2020.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.10
 [2020.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.09
