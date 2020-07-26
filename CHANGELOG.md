@@ -8,6 +8,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 ### Added
+- ISACA Introduction to Privacy Event
 - NIST SP 800-171 Rev. 2 Profile Template
   
 ### Changed
