@@ -7,6 +7,11 @@ New deployments of the website are considered releases, and are versioned in the
 format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
+### Added
+- NIST SP 800-171 Rev. 2 Profile Template
+  
+### Changed
+- Update CMMC Profile Template to v1.02
 
 ## [2020.13]
 ### Changed
@@ -214,7 +219,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.12...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.13...HEAD
+[2020.13]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.13
 [2020.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.12
 [2020.11]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.11
 [2020.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.10
