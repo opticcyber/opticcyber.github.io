@@ -8,6 +8,13 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2020.17]
+### Added
+- ISACA Conference entry
+
+### Changed
+- RSA Presentation link
+
 ## [2020.16]
 ### Changed
 - Update CSF Profile Template
@@ -231,7 +238,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.16...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.17...HEAD
+[2020.17]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.17
 [2020.16]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.16
 [2020.15]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.15
 [2020.14]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.14
