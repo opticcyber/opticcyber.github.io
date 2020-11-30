@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2020.20]
+### Added
+- Registered Practitioner logo on About Us page
+
 ## [2020.19]
 ### Added
 - 2 ISACA Blog Posts
@@ -246,7 +250,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.19...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2020.20...HEAD
+[2020.20]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.20
 [2020.19]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.19
 [2020.18]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.18
 [2020.17]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.17
