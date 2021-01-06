@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2021.01]
+### Added
+- RPO Logo to Advising page
+
 ## [2020.21]
 ### Changed
 - Updated bios
