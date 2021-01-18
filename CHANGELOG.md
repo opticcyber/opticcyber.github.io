@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2021.03]
+### Changed
+- Article layout
+
 ## [2021.02]
 ### Added
 - CMMC Services Page
@@ -271,7 +275,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.02...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.03...HEAD
+[2021.03]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.03
 [2021.02]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.02
 [2021.01]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.01
 [2020.20]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2020.20
