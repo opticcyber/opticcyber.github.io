@@ -8,6 +8,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 ### Added
+- CMMC Services Page
 - Upcoming Speaking Engagements
 - New Webinars
 - Thumbnails for webinars
