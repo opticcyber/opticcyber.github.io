@@ -7,6 +7,16 @@ New deployments of the website are considered releases, and are versioned in the
 format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
+### Added
+- Upcoming Speaking Engagements
+- New Webinars
+- Thumbnails for webinars
+
+### Changed
+- Resources Page Links
+
+### Removed
+- YouTube embedded links due to cookie concerns
 
 ## [2021.01]
 ### Added
