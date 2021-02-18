@@ -7,10 +7,12 @@ New deployments of the website are considered releases, and are versioned in the
 format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
-## Added
+
+## [2021.07]
+### Added
 - New speaking engagement
 
-## Changed
+### Changed
 - Converted images to `webp` for bandwidth optimization
 
 ## [2021.06]
@@ -293,7 +295,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.06...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.07...HEAD
+[2021.07]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.07
 [2021.06]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.06
 [2021.05]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.05
 [2021.04]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.04
