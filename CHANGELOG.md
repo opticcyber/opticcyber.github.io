@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2021.08]
+### Added
+- NIST Privacy Framework Crosswalk Template
+
 ## [2021.07]
 ### Added
 - New speaking engagement
