@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2021.10]
+### Added
+- SPRS Worksheet on Resources Page
+
 ## [2021.09]
 ### Changed
 - Updated RSA link on Resources
