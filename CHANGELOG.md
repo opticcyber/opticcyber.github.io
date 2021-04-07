@@ -307,7 +307,9 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.08...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.10...HEAD
+[2021.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.10
+[2021.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.09
 [2021.08]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.08
 [2021.07]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.07
 [2021.06]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.06
