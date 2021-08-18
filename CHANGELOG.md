@@ -7,6 +7,8 @@ New deployments of the website are considered releases, and are versioned in the
 format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
+
+## [2021.16]
 ### Added
 - Infosec World Talk to Home page
 - CMMC link on Home page
@@ -334,7 +336,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.15...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.16...HEAD
+[2021.16]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.16
 [2021.15]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.15
 [2021.14]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.14
 [2021.13]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.13
