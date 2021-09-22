@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2021.18]
+### Changed
+- Update Infosec World date
+
 ## [2021.17]
 ### Changed
 - Restore picture on CMMC page
@@ -341,7 +345,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.17...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.18...HEAD
+[2021.18]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.18
 [2021.17]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.17
 [2021.16]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.16
 [2021.15]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.15
