@@ -8,12 +8,16 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
-## [2021.18]
+## [2021.19]
 ### Added
 - News and Media Page
 
 ### Changed
 - Moved contents from Resources to News and Media
+
+## [2021.18]
+### Changed
+- Update Infosec World date
 
 ## [2021.17]
 ### Changed
@@ -348,7 +352,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.18...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.19...HEAD
+[2021.19]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.19
 [2021.18]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.18
 [2021.17]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.17
 [2021.16]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.16
