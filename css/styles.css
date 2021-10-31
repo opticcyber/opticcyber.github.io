@@ -283,3 +283,13 @@ a {
     height: 2px;
     background-color: rgb(230, 188, 51);
 }
+
+.blue-section .card-body {
+    color: rgb(0, 0, 0);
+}
+
+.blue-section .card-body a {
+    color: rgb(40, 80, 119);
+    font-weight: 400;
+    text-transform: none;
+}
