@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2021.22]
+### Added
+- CMMC 2.0 Profile Template
+
 ## [2021.21]
 ### Added
 - ISACA Right-Sizing Cyper Practices Article
@@ -363,7 +367,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.20...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2021.22...HEAD
+[2021.22]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.22
 [2021.21]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.21
 [2021.20]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.20
 [2021.19]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2021.19
