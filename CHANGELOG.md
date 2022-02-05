@@ -8,12 +8,19 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2022.04]
+
+### Changed
+- Update SPRS Worksheet
+
 ## [2022.03]
 
 ### Added
 - New Article and Speaking Engagement
 
 ## [2022.02]
+
+### Changed
 - Update SPRS Worksheet
 
 ## [2022.01]
@@ -379,7 +386,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2022.03...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2022.04...HEAD
+[2022.04]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.04
 [2022.03]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.03
 [2022.02]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.02
 [2022.01]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.01
