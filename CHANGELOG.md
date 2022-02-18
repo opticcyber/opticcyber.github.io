@@ -8,6 +8,11 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2022.06]
+
+### Added
+- RSA Promo to home page
+
 ## [2022.05]
 
 ### Added
@@ -391,7 +396,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2022.05...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2022.06...HEAD
+[2022.06]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.06
 [2022.05]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.05
 [2022.04]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.04
 [2022.03]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.03
