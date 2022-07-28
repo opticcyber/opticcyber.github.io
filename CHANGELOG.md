@@ -8,6 +8,11 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2022.10]
+
+## Changed
+- Default resources to collapsed
+
 ## [2022.09]
 
 ### Changed
@@ -412,7 +417,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2022.09...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2022.10...HEAD
+[2022.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.10
 [2022.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.09
 [2022.08]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.08
 [2022.07]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.07
