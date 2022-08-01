@@ -8,6 +8,11 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2022.11]
+
+## Changed
+- Removed Risk Management section from Resources
+
 ## [2022.10]
 
 ## Changed
