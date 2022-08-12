@@ -8,6 +8,15 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2022.12]
+
+## Added
+- New event on home page
+- New image on Assessments page
+
+## Changed
+- Updated link for Measurement & Assessment Panel
+
 ## [2022.11]
 
 ## Changed
