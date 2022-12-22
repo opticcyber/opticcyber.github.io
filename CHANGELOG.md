@@ -8,6 +8,16 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2022.13]
+
+## Added
+- New ISACA Blog Post
+- New Speaking engagement
+
+## Changed
+- RPO Badge image
+- Move 2022 speaking engagements from Upcoming to 2022
+
 ## [2022.12]
 
 ## Added
@@ -431,7 +441,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2022.10...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2022.13...HEAD
+[2022.13]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.13
+[2022.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.12
+[2022.11]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.11
 [2022.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.10
 [2022.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.09
 [2022.08]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.08
