@@ -10,6 +10,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## Changed
 - CMMC Services language
+- Cybermaturity Assessment language
 
 ## [2023.01]
 
