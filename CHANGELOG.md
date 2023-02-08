@@ -8,6 +8,9 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## Changed
+- CMMC Services language
+
 ## [2023.01]
 
 ## Added
