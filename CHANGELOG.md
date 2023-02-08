@@ -8,9 +8,12 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2023.02]
+
 ## Changed
 - CMMC Services language
 - Cybermaturity Assessment language
+- Move CMMC Services page
 
 ## [2023.01]
 
@@ -450,7 +453,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2023.01...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2023.02...HEAD
+[2023.02]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.02
 [2023.01]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.01
 [2022.13]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.13
 [2022.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2022.12
