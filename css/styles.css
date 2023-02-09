@@ -18,8 +18,10 @@ strong {
     font-weight: 600;
 }
 
-a, a:hover, a:focus {
+a, a:hover, a:focus, a:visited {
+    font-family: "Montserrat", sans-serif;
     color: rgb(40, 80, 119);
+    text-decoration: underline;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -27,11 +29,11 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 600;
     color: rgb(40, 80, 119);
     text-transform: uppercase;
+    text-decoration: none !important;
 }
 
-a {
-    font-family: "Montserrat", sans-serif;
-    color: rgb(40, 80, 119);
+.header-link a {
+    text-decoration: none;
 }
 
 .btn, .btn:hover, .btn:active, .btn:focus {
