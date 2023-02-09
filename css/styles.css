@@ -64,11 +64,11 @@ a {
     color: rgb(255, 255, 255);
 }
 
-.blue-section h1, 
-.blue-section h2, 
-.blue-section h3, 
-.blue-section h4, 
-.blue-section h5, 
+.blue-section h1,
+.blue-section h2,
+.blue-section h3,
+.blue-section h4,
+.blue-section h5,
 .blue-section h6,
 .blue-section a {
     color: rgb(255, 255, 255);
@@ -240,7 +240,7 @@ a {
     .navbar {
         padding-left: 700px;
         padding-right: 700px;
-    }    
+    }
 }
 
 .title-banner {
@@ -290,4 +290,8 @@ a {
 
 .blue-section .card-body a {
     color: rgb(40, 80, 119);
+}
+
+.no-bullet-list {
+    list-style-type: none;
 }
