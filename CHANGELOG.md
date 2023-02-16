@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2023.05]
+
+- Change Google Analytics ad stream
+
 ## [2023.04]
 
 ## Changed
@@ -469,7 +473,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2023.04...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2023.05...HEAD
+[2023.05]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.05
 [2023.04]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.04
 [2023.03]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.03
 [2023.02]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.02
