@@ -8,6 +8,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+- Change photos on About Us page
+
 ## [2023.05]
 
 - Change Google Analytics ad stream
