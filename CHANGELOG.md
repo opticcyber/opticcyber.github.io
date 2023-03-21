@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2023.08]
+
+- Update CSF Services language
+
 ## [2023.07]
 
 - Change CSF Service page layout
