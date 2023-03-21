@@ -9,6 +9,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ## [Unreleased]
 
 - Change photos on About Us page
+- Update homepage events
+- Add RSA sessions
 
 ## [2023.05]
 
