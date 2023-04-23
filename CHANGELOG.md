@@ -8,7 +8,12 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2023.11]
+
+- Update JQuery to 3.6.4
+
 ## [2023.10]
+
 - Redesign Implementation page
 - Add goals section to homepage
 - Change RPO logo on About Us page
@@ -496,7 +501,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2023.10...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2023.11...HEAD
+[2023.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.11
 [2023.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.10
 [2023.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.09
 [2023.08]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.08
