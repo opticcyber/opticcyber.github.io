@@ -8,6 +8,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+- Change RPO logo on About Us page
+
 ## [2023.09]
 
 - Add date for RSA talk
