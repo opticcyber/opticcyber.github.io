@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2023.13]
+
+- Add InfoSec World speaking engagement
+
 ## [2023.12]
 
 - Update spacing on multiple pages
