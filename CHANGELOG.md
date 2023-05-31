@@ -447,7 +447,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 - Link to CMMI Platform Workshop
 
 ### Changed
-- Update CNAME to point at www.opticcyber.com
+- Update CNAME to point at <www.opticcyber.com>
 - Dynamic year generation for copyright message
 - RSA Webinar link moved to YouTube
 
@@ -500,7 +500,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ### Changed
 - Adjusted the display for mobile devices
-- CNAME now points to www.opticcybersolutions.com
+- CNAME now points to <www.opticcybersolutions.com>
 
 ### Fixed
 - Top banner background image zooming on small devices
