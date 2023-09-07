@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2023.17]
+
+- Add workshop redirect at www.opticcyber.com/workshop
+
 ## [2023.16]
 
 - Add ISC2 Congress Speaking Event
@@ -523,7 +527,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2023.16...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2023.17...HEAD
+[2023.17]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.17
 [2023.16]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.16
 [2023.15]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.15
 [2023.14]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.14
