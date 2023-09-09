@@ -15,7 +15,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [2023.17]
 
-- Add workshop redirect at www.opticcyber.com/workshop
+- Add workshop redirect at <www.opticcyber.com/workshop>
 
 ## [2023.16]
 
