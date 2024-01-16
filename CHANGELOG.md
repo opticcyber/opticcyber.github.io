@@ -8,6 +8,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.01]
+
+- Add Veteran-owned Small Business seal
+
 ## [2023.18]
 
 - Add workshop to homepage
@@ -532,7 +536,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ### Added
 - One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2023.18...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.01...HEAD
+[2023.01]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.01
 [2023.18]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.18
 [2023.17]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.17
 [2023.16]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2023.16
