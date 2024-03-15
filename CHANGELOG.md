@@ -1,559 +1,486 @@
-# Changelog
+# Change:log
 
-All notable changes to this project will be documented in this file.
-
-Log format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+Log format is loosely based on [Keep a Change:log](https://keepaChange:log.com/en/1.0.0/).
 New deployments of the website are considered releases, and are versioned in the
 format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.06]
+
+- Add: NIST CSF 2.0 speaking events and YouTube videos
+
 ## [2024.05]
 
-- Add NIST CSF 2.0 resources
+- Add: NIST CSF 2.0 resources
 
 ## [2024.04]
 
-- Update bio
+- Change: bio
 
 ## [2024.03]
 
-- Update template spreadsheets
-- add MSP SRM template
+- Add: MSP SRM template
+- Change: template spreadsheets
 
 ## [2024.02]
 
-- Remove Learn More from CMMC Services page
+- Remove: Learn More from CMMC Services page
 
 ## [2024.01]
 
-- Add Veteran-owned Small Business seal
+- Add: Veteran-owned Small Business seal
 
 ## [2023.18]
 
-- Add workshop to homepage
-- Resize homepage images
+- Add: workshop to homepage
+- Change: homepage images
 
 ## [2023.17]
 
-- Add workshop redirect at <www.opticcyber.com/workshop>
+- Add: workshop redirect at <www.opticcyber.com/workshop>
 
 ## [2023.16]
 
-- Add ISC2 Congress Speaking Event
-- Add InfoSec World Event
+- Add: ISC2 Congress Speaking Event
+- Add: InfoSec World Event
 
 ## [2023.15]
 
-- Add ISC2 Congress Speaking Event
+- Add: ISC2 Congress Speaking Event
 
 ## [2023.14]
 
-- Add FISMA & FedRAMP Services Page
-- Remove old Google Analytics code
-- Update Font Awesome to version 6.4.0
+- Add: FISMA & FedRAMP Services Page
+- Remove: old Google Analytics code
+- Update: Font Awesome to version 6.4.0
+
 ## [2023.13]
 
-- Add InfoSec World speaking engagement
+- Add: InfoSec World speaking engagement
 
 ## [2023.12]
 
-- Update spacing on multiple pages
+- Change: spacing on multiple pages
 
 ## [2023.11]
 
-- Update JQuery to 3.6.4
+- Update: JQuery to 3.6.4
 
 ## [2023.10]
 
-- Redesign Implementation page
-- Add goals section to homepage
-- Change RPO logo on About Us page
+- Add: goals section to homepage
+- Change: Implementation page
+- Change: RPO logo on About Us page
 
 ## [2023.09]
 
-- Add date for RSA talk
-- Add contact info to CMMC services page
+- Add: date for RSA talk
+- Add: contact info to CMMC services page
 
 ## [2023.08]
 
-- Update CSF Services language
+- Change: CSF Services language
 
 ## [2023.07]
 
-- Change CSF Service page layout
+- Change: CSF Service page layout
 
 ## [2023.06]
-- Change photos on About Us page
-- Update homepage events
-- Add RSA sessions
+
+- Add: RSA sessions
+- Change: photos on About Us page
+- Change: homepage events
 
 ## [2023.05]
 
-- Change Google Analytics ad stream
+- Change: Google Analytics ad stream
 
 ## [2023.04]
 
-## Changed
-- Add underline to all non-header links for better visibility
+- Add: underline to all non-header links for better visibility
 
 ## [2023.03]
 
-## Added
-- NIST Cybersecurity Framework Page
-
-## Changed
-- Links on homepage to services
-
-## Fixed
-- Broken links
+- Add: NIST Cybersecurity Framework Page
+- Change: links on homepage to services
+- Fix: broken links
 
 ## [2023.02]
 
-## Changed
-- CMMC Services language
-- Cybermaturity Assessment language
-- Move CMMC Services page
+- Change: CMMC Services language
+- Change: Cybermaturity Assessment language
+- Change: CMMC Services page location
 
 ## [2023.01]
 
-## Added
-- New Event on home page
+- Add: event on home page
 
 ## [2022.13]
 
-### Added
-- New ISACA Blog Post
-- New Speaking engagement
-
-### Changed
-- RPO Badge image
-- Move 2022 speaking engagements from Upcoming to 2022
+- Add: new ISACA Blog Post
+- Add: new Speaking engagement
+- Change: RPO Badge image
+- Change: 2022 speaking engagements from Upcoming to 2022
 
 ## [2022.12]
 
-### Added
-- New event on home page
-- New image on Assessments page
-
-### Changed
-- Updated link for Measurement & Assessment Panel
+- Add: new event on home page
+- Add: new image on Assessments page
+- Change: link for Measurement & Assessment Panel
 
 ## [2022.11]
 
-### Changed
-- Removed Risk Management section from Resources
+- Remove: Risk Management section from Resources
 
 ## [2022.10]
 
-### Changed
-- Default resources to collapsed
+- Change: default resources to collapsed
 
 ## [2022.09]
 
-### Changed
-- YouTube link to channel
-- New layout for Resources page
+- Change: YouTube link to channel
+- Change: layout for Resources page
 
 ## [2022.08]
 
-### Added
-- Howard County Chamber of Commerce Speaking Event
+- Add: Howard County Chamber of Commerce Speaking Event
 
 ## [2022.07]
-### Added
-- Cybersecurity: What Role Do You Play blog post
-- Links to RSA Conference sessions
+
+- Add: cybersecurity: What Role Do You Play blog post
+- Add: links to RSA Conference sessions
 
 ## [2022.06]
 
-### Added
-- RSA Promo to home page
+- Add: RSA Promo to home page
 
 ## [2022.05]
 
-### Added
-- New ISACA blog
+- Add: new ISACA blog
 
 ## [2022.04]
 
-### Changed
-- Update SPRS Worksheet
+- Change: SPRS Worksheet
 
 ## [2022.03]
 
-### Added
-- New Article and Speaking Engagement
+- Add: new Article and Speaking Engagement
 
 ## [2022.02]
 
-### Changed
-- Update SPRS Worksheet
+- Change: SPRS Worksheet
 
 ## [2022.01]
-### Changed
-- Update SPRS Worksheet
+
+- Change: SPRS Worksheet
 
 ## [2021.22]
-### Added
-- CMMC 2.0 Profile Template
+
+- Add: CMMC 2.0 Profile Template
 
 ## [2021.21]
-### Added
-- ISACA Right-Sizing Cyper Practices Article
+
+- Add: ISACA Right-Sizing Cyper Practices Article
 
 ## [2021.20]
-### Added
-- ISACA Protecting Against Ransomware Article
 
-### Removed
-- CMMC v1.02 Profile Template
+- Add: ISACA Protecting Against Ransomware Article
+- Remove: CMMC v1.02 Profile Template
 
 ## [2021.19]
-### Added
-- News and Media Page
 
-### Changed
-- Moved contents from Resources to News and Media
+- Add: News and Media Page
+- Change: contents from Resources to News and Media
 
 ## [2021.18]
-### Changed
-- Update Infosec World date
+
+- Change: Infosec World date
 
 ## [2021.17]
-### Changed
-- Restore picture on CMMC page
-- Update presentation title
+
+- Change: picture on CMMC page
+- Change: presentation title
 
 ## [2021.16]
-### Added
-- Infosec World Talk to Home page
-- CMMC link on Home page
-- Add new webinars
 
-### Removed
-- Old webinars
+- Add: Infosec World Talk to Home page
+- Add: CMMC link on Home page
+- Add: new webinars
+- Remove: old webinars
 
 ## [2021.15]
-### Added
-- RSA Virtual Seminar link to Resources Page
+
+- Add: RSA Virtual Seminar link to Resources Page
 
 ## [2021.14]
-### Changed
-- Infosec World Date
+
+- Change: Infosec World Date
 
 ## [2021.13]
-### Added
-- RSA Talk link
+
+- Add: RSA Talk link
 
 ## [2021.12]
-### Added
-- RSA links
+
+- Add: RSA links
 
 ## [2021.11]
-### Added
-- InfoSec World 2021 link
+
+- Add: InfoSec World 2021 link
 
 ## [2021.10]
-### Added
-- SPRS Worksheet on Resources Page
+
+- Add: SPRS Worksheet on Resources Page
 
 ## [2021.09]
-### Changed
-- Updated RSA link on Resources
+
+- Change: RSA link on Resources
 
 ## [2021.08]
-### Added
-- NIST Privacy Framework Crosswalk Template
+
+- Add: NIST Privacy Framework Crosswalk Template
 
 ## [2021.07]
-### Added
-- New speaking engagement
 
-### Changed
-- Converted images to `webp` for bandwidth optimization
+- Add: new speaking engagement
+- Change: images to `webp` for bandwidth optimization
 
 ## [2021.06]
-### Changed
-- Updated CMMC Profile template
+
+- Change: CMMC Profile template
 
 ## [2021.05]
-### Added
-- New Thumbnails for upcoming speaking sessions
-- Link to Compliance session
+
+- Add: new Thumbnails for upcoming speaking sessions
+- Add: link to Compliance session
 
 ## [2021.04]
-### Added
-- New speaking engagement
+
+- Add: new speaking engagement
 
 ## [2021.03]
-### Changed
-- Article layout
+
+- Change: article layout
 
 ## [2021.02]
-### Added
-- CMMC Services Page
-- Upcoming Speaking Engagements
-- New Webinars
-- Thumbnails for webinars
 
-### Changed
-- Resources Page Links
-
-### Removed
-- YouTube embedded links due to cookie concerns
+- Add: CMMC Services Page
+- Add: upcoming Speaking Engagements
+- Add: new Webinars
+- Add: thumbnails for webinars
+- Change: Resources Page Links
+- Remove: YouTube embedded links due to cookie concerns
 
 ## [2021.01]
-### Added
-- RPO Logo to Advising page
+
+- Add: RPO Logo to Advising page
 
 ## [2020.21]
-### Changed
-- Updated bios
+
+- Change: bios
 
 ## [2020.20]
-### Added
-- Registered Practitioner logo on About Us page
+
+- Add: Registered Practitioner logo on About Us page
 
 ## [2020.19]
-### Added
-- 2 ISACA Blog Posts
+
+- Add: two ISACA Blog Posts
 
 ## [2020.18]
-### Added
-- ISACA Conference Promo
+
+- Add: ISACA Conference Promo
 
 ## [2020.17]
-### Added
-- ISACA Conference entry
 
-### Changed
-- RSA Presentation link
+- Add: ISACA Conference entry
+- Change: RSA Presentation link
 
 ## [2020.16]
-### Changed
-- Update CSF Profile Template
+
+- Change: CSF Profile Template
 
 ## [2020.15]
-### Added
-- Embedded YouTube videos from the Optic channel
+
+- Add: YouTube videos from the Optic channel
 
 ## [2020.14]
-### Added
-- Link to YouTube channel on bottom navigation
-- ISACA Introduction to Privacy Event
-- NIST SP 800-171 Rev. 2 Profile Template
 
-### Changed
-- Update CMMC Profile Template to v1.02
+- Add: link to YouTube channel on bottom navigation
+- Add: ISACA Introduction to Privacy Event
+- Add: NIST SP 800-171 Rev. 2 Profile Template
+- Change: CMMC Profile Template to v1.02
 
 ## [2020.13]
-### Changed
-- Image for NIST CSF & Privacy Framework Template
+
+- Change: image for NIST CSF & Privacy Framework Template
 
 ## [2020.12]
-### Added
-- NIST CSF & Privacy Framework Template
+
+- Add: NIST CSF & Privacy Framework Template
 
 ## [2020.11]
-### Changed
-- Updated Speaking Engagements
-- About Us text
+
+- Change: Speaking Engagements
+- Change: About Us text
 
 ## [2020.10]
-### Added
-- CMMC Profile Template
-- Cybersecurity Association of Maryland logo to About Us
 
-### Changed
-- Blog Post URL
+- Add: CMMC Profile Template
+- Add: Cybersecurity Association of Maryland logo to About Us
+- Change: blog post URL
 
 ## [2020.09]
-### Changed
-- Bios, again
+
+- Change: bios, again
 
 ## [2020.08]
-### Changed
-- Bios
+
+- Change: bios
 
 ## [2020.07]
-### Added
-- Blog Post: The Importance of Preparing for Ransomware
 
-### Changed
-- Changed date for InfoSecWorld 2020 Session
+- Add: blog post - The Importance of Preparing for Ransomware
+- Change: date for InfoSecWorld 2020 Session
 
 ## [2020.06]
-### Changed
-- NIST Cybersecurity Framework Explained link
+
+- Change: NIST Cybersecurity Framework Explained link
 
 ## [2020.05]
-### Added
-- ITMA & WMCSC Promos
+
+- Add: ITMA & WMCSC Promos
 
 ## [2020.04]
-### Added
-- RSA Speaking event
 
-### Changed
-- Reorder 2019 Speaking Engagements to chronological order
-
-### Removed
-- Capability Counts 2019 homepage slide (still available on Resources)
+- Add: RSA Speaking event
+- Change: 2019 Speaking Engagements to chronological order
+- Remove: Capability Counts 2019 homepage slide (still available on Resources)
 
 ## [2020.03]
-### Changed
-- Assessments Page language
+
+- Change: Assessments Page language
 
 ## [2020.02]
-### Added
-- Operationalizing Cybersecurity Article
 
-### Changed
-- Resources page Grid layout
+- Add: Operationalizing Cybersecurity Article
+- Change: Resources page grid layout
 
 ## [2020.01]
-### Fixed
-- Typos
-- Broken link to RSA Blog post
 
-### Added
-- RSA Conference Panel info
-- MyTechMag Article
-
-### Changed
-- Update Copyright date
-- Grid layout on Resources page
+- Add: RSA Conference Panel info
+- Add: MyTechMag Article
+- Change: Copyright date
+- Change: grid layout on Resources page
+- Fix: typos
+- Fix: broken link to RSA Blog post
 
 ## [2019.20]
-### Added
-- InfoSec World 2020 Session promo
 
-## Changed
-- Move events from Upcoming to past
-
-### Removed
-- InfoSec World 2019 Session promo
+- Add: InfoSec World 2020 Session promo
+- Change: events from Upcoming to past
+- Remove: InfoSec World 2019 Session promo
 
 ## [2019.19]
-### Added
-- Resilience Through Cybermaturity Session promo
-- NIST Framework session link on Resources page
+
+- Add: Resilience Through Cybermaturity Session promo
+- Add: NIST Framework session link on Resources page
 
 ## [2019.18]
-### Changed
-- Text Fixes
+
+- Change: text
 
 ## [2019.17]
-### Added
-- Additional link to CMMI-CP
+
+- Add: Add:itional link to CMMI-CP
 
 ## [2019.16]
-### Added
-- CMMI-CP page
 
-### Changed
-- Spacing for some text
+- Add: CMMI-CP page
+- Change: spacing for some text
 
 ## [2019.15]
-### Changed
-- Privacy Framework image on homepage
+
+- Change: Privacy Framework image on homepage
 
 ## [2019.14]
-### Added
-- Email link in footer
 
-### Changed
-- Services wording
+- Add: email link in footer
+- Change: services wording
 
 ## [2019.13]
-### Fixed
-- Icon
-- Typos
+
+- Fix: icon
+- Fix: typos
 
 ## [2019.12]
-### Added
-- November ISACA-CMC Meeting link
-- New pages for services
-  - Advising
-  - Assessments
-  - Implementation
 
-### Changed
-- Wording of services
-
-### Fixed
-- "Top of page" buttons at page bottoms correctly scroll to the top
-- "Contact Us" link now always goes to home page contact section
+- Add: November ISACA-CMC Meeting link
+- Add: Advising services page
+- Add: Assessments services page
+- Add: Implementation services page
+- Change: wording of services
+- Fix: "Top of page" buttons at page bottoms correctly scroll to the top
+- Fix: "Contact Us" link now always goes to home page contact section
 
 ## [2019.11]
-### Added
-- Link to CMMI Platform Workshop
 
-### Changed
-- Update CNAME to point at <www.opticcyber.com>
-- Dynamic year generation for copyright message
-- RSA Webinar link moved to YouTube
+- Add: link to CMMI Platform Workshop
+- Change: CNAME to point at <www.opticcyber.com>
+- Change: dynamic year generation for copyright message
+- Change: RSA Webinar link moved to YouTube
 
 ## [2019.10]
-### Fixed
-- Typos
+
+- Fix: typos
 
 ## [2019.09]
-### Added
-- RSA blog post
+
+- Add: RSA blog post
 
 ## [2019.08]
-### Added
-- Upcoming speaking event
+
+- Add: upcoming speaking event
 
 ## [2019.07]
-### Added
-- Resources page with links to informational webinars and downloadable templates
+
+- Add: Resources page with links to informational webinars and downloadable templates
   for using the NIST Cybersecurity Framework
 
-### Changed
-- Version numbering will now be handled by a year+release number, in the form
-  `YYYY.RR`. Previous tags and releases will **not** be adjusted to this format.
-
 ## [1.5.0] - 2019-05-16
-### Added
-- Google Analytics Website Tracking
-- Drop shadow on navbar
+
+- Add: Google Analytics website tracking
+- Add: drop shadow on navbar
 
 ## [1.4.0] - 2019-05-14
-### Added
-- Events on homepage
-- About Us page
 
-### Changed
-- Update fontawesome to 5.8.1
-- Removed bios from homepage
+- Add: events on homepage
+- Add: About Us page
+- Remove: bios from homepage
+- Update: fontawesome to 5.8.1
 
 ## [1.3.0] - 2019-04-15
-### Changed
-- Adjusted left and right padding for wide displays
+
+- Change: left and right pAdd:ing for wide displays
 
 ## [1.2.0] - 2019-04-15
-### Added
-- Site favicon
+
+- Add: site favicon
 
 ## [1.1.0] - 2019-03-31
-### Added
-- Social media link to LinkedIn
 
-### Changed
-- Adjusted the display for mobile devices
-- CNAME now points to <www.opticcybersolutions.com>
-
-### Fixed
-- Top banner background image zooming on small devices
+- Add: social media link to LinkedIn
+- Change: display for mobile devices
+- Change: CNAME to point to <www.opticcybersolutions.com>
+- Fix: top banner background image zooming on small devices
 
 ## [1.0.0] - 2019-03-28
-### Added
-- One-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.05...HEAD
+- Add: one-page brochure-style website
+
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.06...HEAD
+[2024.06]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.06
 [2024.05]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.05
 [2024.04]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.04
 [2024.03]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.03
