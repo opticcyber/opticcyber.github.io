@@ -6,6 +6,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+- Add: pyenv file
+- Add: script to tag and push to all remotes
+- Fix: make old tags to match `YYYY.##` name convention
+
 ## [2024.06]
 
 - Add: NIST CSF 2.0 speaking events and YouTube videos
@@ -448,34 +452,34 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 - Add: Resources page with links to informational webinars and downloadable templates
   for using the NIST Cybersecurity Framework
 
-## [1.5.0] - 2019-05-16
+## [2019.06]
 
 - Add: Google Analytics website tracking
 - Add: drop shadow on navbar
 
-## [1.4.0] - 2019-05-14
+## [2019.05]
 
 - Add: events on homepage
 - Add: About Us page
 - Remove: bios from homepage
 - Update: fontawesome to 5.8.1
 
-## [1.3.0] - 2019-04-15
+## [2019.04]
 
 - Change: left and right pAdd:ing for wide displays
 
-## [1.2.0] - 2019-04-15
+## [2019.03]
 
 - Add: site favicon
 
-## [1.1.0] - 2019-03-31
+## [2019.02]
 
 - Add: social media link to LinkedIn
 - Change: display for mobile devices
 - Change: CNAME to point to <www.opticcybersolutions.com>
 - Fix: top banner background image zooming on small devices
 
-## [1.0.0] - 2019-03-28
+## [2019.01]
 
 - Add: one-page brochure-style website
 
@@ -573,9 +577,9 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 [2019.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.09
 [2019.08]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.08
 [2019.07]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.07
-[1.5.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.5.0
-[1.4.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.4.0
-[1.3.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.3.0
-[1.2.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.2.0
-[1.1.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.1.0
-[1.0.0]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/1.0.0
+[2019.06]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.06
+[2019.05]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.05
+[2019.04]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.04
+[2019.03]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.03
+[2019.02]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.02
+[2019.01]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2019.01
