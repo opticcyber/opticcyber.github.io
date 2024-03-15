@@ -6,8 +6,12 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.07]
+
+- Add: missing old speaking events
 - Add: pyenv file
 - Add: script to tag and push to all remotes
+- Change: new thumbnails on Resources page
 - Fix: make old tags to match `YYYY.##` name convention
 
 ## [2024.06]
@@ -483,7 +487,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.06...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.07...HEAD
+[2024.07]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.07
 [2024.06]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.06
 [2024.05]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.05
 [2024.04]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.04
