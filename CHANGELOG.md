@@ -6,6 +6,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+- Add: Privacy Policy
+
 ## [2024.07]
 
 - Add: missing old speaking events
