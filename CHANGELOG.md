@@ -6,6 +6,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.10]
+
+- Change: spacing and text on MaPT page
+
 ## [2024.09]
 
 - Fix: broken links on MaPT page
@@ -497,7 +501,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.09...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.10...HEAD
+[2024.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.10
 [2024.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.09
 [2024.08]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.08
 [2024.07]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.07
