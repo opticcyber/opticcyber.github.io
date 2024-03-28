@@ -6,6 +6,9 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+- Change: Twitter logo to X
+- Update: Fontawesome to version 6.5.1
+
 ## [2024.10]
 
 - Change: spacing and text on MaPT page
