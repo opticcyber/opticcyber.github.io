@@ -6,7 +6,11 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.11]
+
 - Change: Twitter logo to X
+- Change: template spreadsheets
+- Change: thumbnail on MaPT page
 - Update: Fontawesome to version 6.5.1
 
 ## [2024.10]
@@ -504,7 +508,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.10...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.11...HEAD
+[2024.11]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.11
 [2024.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.10
 [2024.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.09
 [2024.08]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.08
