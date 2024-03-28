@@ -6,7 +6,7 @@ TAG=$1
 
 echo "Using tag: $TAG"
 
-git tag $TAG main
+git tag -a $TAG main -m "tagging version $TAG"
 git push gitea main
 git push gitea $TAG
 git push origin main
