@@ -1,12 +1,17 @@
-# Change:log
+# Changelog
 
-Log format is loosely based on [Keep a Change:log](https://keepaChange:log.com/en/1.0.0/).
+Log format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 New deployments of the website are considered releases, and are versioned in the
 format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.12]
+
 - Add: annotated tag to release script
+- Add: ISACA webinar to upcoming speaking events
+- Change: Homepage events
+- Change: Link to SRM Template
 
 ## [2024.11]
 
@@ -510,7 +515,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.11...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.12...HEAD
+[2024.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.12
 [2024.11]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.11
 [2024.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.10
 [2024.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.09
