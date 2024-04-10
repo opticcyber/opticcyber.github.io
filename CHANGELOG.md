@@ -6,6 +6,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.13]
+
+- Change: MaPT link
+
 ## [2024.12]
 
 - Add: annotated tag to release script
@@ -515,7 +519,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.12...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.13...HEAD
+[2024.13]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.13
 [2024.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.12
 [2024.11]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.11
 [2024.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.10
