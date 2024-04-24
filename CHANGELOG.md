@@ -6,6 +6,11 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.15]
+
+- Add: RSA 365 Cybersecurity Learning event
+- Add: ZeroTrust Meet & Expo event
+
 ## [2024.14]
 
 - Change: Update SRM Template spreadsheet
@@ -523,7 +528,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.14...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.15...HEAD
+[2024.15]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.15
 [2024.14]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.14
 [2024.13]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.13
 [2024.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.12
