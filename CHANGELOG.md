@@ -6,6 +6,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.17]
+
+- Change: Spacing for mobile
+
 ## [2024.16]
 
 - Add: EDUCAUSE Poster and page
@@ -532,7 +536,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.16...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.17...HEAD
+[2024.17]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.17
 [2024.16]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.16
 [2024.15]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.15
 [2024.14]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.14
