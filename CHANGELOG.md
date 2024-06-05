@@ -6,6 +6,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.20]
+
+- Add: New speaking engagements
+
 ## [2024.19]
 
 - Add: Link to 171 Rev 3 template
@@ -544,7 +548,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.19...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.20...HEAD
+[2024.20]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.20
 [2024.19]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.19
 [2024.18]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.18
 [2024.17]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.17
