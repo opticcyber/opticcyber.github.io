@@ -6,6 +6,13 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.21]
+
+- Change: Link to the CMMC 2.0 Profile Template
+- Change: Link to NIST CSF 2.0 Profile Template
+- Change: Link to SPRS Worksheet
+- Change: Update SPRS Worksheet
+
 ## [2024.20]
 
 - Add: New speaking engagements
@@ -548,7 +555,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.20...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.21...HEAD
+[2024.21]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.21
 [2024.20]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.20
 [2024.19]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.19
 [2024.18]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.18
