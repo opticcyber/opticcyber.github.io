@@ -10,6 +10,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: InfoSec World Workshop page and resources
 - Change: New upcoming events on homepage
+- Change: Update Twitter links to X
 
 ## [2024.21]
 
