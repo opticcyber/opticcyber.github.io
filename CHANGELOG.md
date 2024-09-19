@@ -6,6 +6,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.22]
+
+- Add: InfoSec World Workshop page and resources
+
 ## [2024.21]
 
 - Change: Link to the CMMC 2.0 Profile Template
@@ -555,7 +559,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.21...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.22...HEAD
+[2024.22]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.22
 [2024.21]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.21
 [2024.20]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.20
 [2024.19]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.19
