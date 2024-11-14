@@ -6,6 +6,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.24]
+
+- Change: SRM Template spreadsheet
+
 ## [2024.23]
 
 - Change: Update Workshop slides to version 0.2
@@ -565,7 +569,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.23...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.24...HEAD
+[2024.24]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.24
 [2024.23]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.23
 [2024.22]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.22
 [2024.21]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.21
