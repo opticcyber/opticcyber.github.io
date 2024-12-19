@@ -6,6 +6,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2024.25]
+
+- Add: CMMC L2 Progress Tracker
+
 ## [2024.24]
 
 - Change: SRM Template spreadsheet
@@ -271,7 +275,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [2021.21]
 
-- Add: ISACA Right-Sizing Cyper Practices Article
+- Add: ISACA Right-Sizing Cyber Practices Article
 
 ## [2021.20]
 
@@ -569,7 +573,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.24...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.25...HEAD
+[2024.25]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.25
 [2024.24]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.24
 [2024.23]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.23
 [2024.22]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.22
