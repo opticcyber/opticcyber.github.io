@@ -6,6 +6,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2025.01]
+
+- Fix: Broken link on Resources page
+
 ## [2024.25]
 
 - Add: CMMC L2 Progress Tracker
@@ -573,7 +577,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2024.25...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2025.01...HEAD
+[2025.01]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.01
 [2024.25]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.25
 [2024.24]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.24
 [2024.23]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.23
