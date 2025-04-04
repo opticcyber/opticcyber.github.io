@@ -6,6 +6,11 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2025.03]
+
+- Add: Speaking engagement on homepage
+- Add: Upcoming speaking engagement on News & Media page
+
 ## [2025.02]
 
 - Add: New Speaking Engagement on homepage
@@ -582,7 +587,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2025.02...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2025.03...HEAD
+[2025.03]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.03
 [2025.02]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.02
 [2025.01]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.01
 [2024.25]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2024.25
