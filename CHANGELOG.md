@@ -6,6 +6,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+- Add NIST SP 800-171 to CMMC mappings
+
 ## [2025.04]
 
 - Add: Speaking engagement on homepage
