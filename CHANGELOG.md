@@ -6,10 +6,14 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2025.06]
+
+- Add: Speaking engagement on homepage
+
 ## [2025.05]
 
-- Add NIST SP 800-171 to CMMC mappings
-- Add Speaking engagements
+- Add: NIST SP 800-171 to CMMC mappings
+- Add: Speaking engagements
 
 ## [2025.04]
 
@@ -597,7 +601,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2025.05...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2025.06...HEAD
+[2025.06]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.06
 [2025.05]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.05
 [2025.04]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.04
 [2025.03]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.03
