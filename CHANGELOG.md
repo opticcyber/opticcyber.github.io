@@ -6,6 +6,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2025.07]
+
+- Change: Update bios
+
 ## [2025.06]
 
 - Add: Speaking engagement on homepage
@@ -601,7 +605,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2025.06...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2025.07...HEAD
+[2025.07]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.07
 [2025.06]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.06
 [2025.05]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.05
 [2025.04]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.04
