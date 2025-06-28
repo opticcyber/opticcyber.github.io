@@ -7,6 +7,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 ## [Unreleased]
 
 - Add: Testimonials on homepage
+- Change: Move Upcoming Events slider to Resources page
 
 ## [2025.07]
 
