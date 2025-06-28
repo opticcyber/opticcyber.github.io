@@ -6,6 +6,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+- Add: Testimonials on homepage
+
 ## [2025.07]
 
 - Change: Update bios

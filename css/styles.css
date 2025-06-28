@@ -161,15 +161,21 @@ h1, h2, h3, h4, h5, h6 {
     background-color: rgb(230, 188, 51);
 }
 
-.carousel-control-prev .icon,
-.carousel-control-next .icon {
+.carousel-control-next,
+.carousel-control-prev {
+    text-decoration: none;
+}
+
+.icon-white,
+.icon-white:hover {
     font-size: 25px;
     color: rgb(40, 80, 119);
 }
 
-.carousel-control-prev .icon:hover,
-.carousel-control-next .icon:hover {
-    color: rgb(40, 80, 119);
+.icon-blue,
+.icon-blue:hover {
+    font-size: 25px;
+    color: rgb(230, 188, 51);
 }
 
 .img-thumbnail {
