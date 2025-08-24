@@ -10,6 +10,7 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Change: Content on About Us
 - Change: Sitewide footer
+- Change: Update LICENSE file
 
 ## [2025.11]
 

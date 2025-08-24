@@ -5,7 +5,10 @@ Optic Cyber Solutions, LLC. They are used in accordance with their individual
 licenses, which are reproduced within the files and/or directories.
   - css/animate-3.7.0.min.js
   - css/bootstrap-4.3.1.min.css
-  - css/fontawesome-5.7.2-all.min.css
+  - css/fontawesome-6.5.1-brands.min.css
+  - css/fontawesome-6.5.1-regular.min.css
+  - css/fontawesome-6.5.1-solid.min.css
+  - css/fontawesome-6.5.1.min.css
   - js/bootstrap-4.1.3.min.js
   - js/jquery-3.6.4.min.js
   - js/popper-1.14.3.min.js
