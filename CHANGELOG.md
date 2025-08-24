@@ -6,6 +6,11 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2025.12]
+
+- Change: Content on About Us
+- Change: Sitewide footer
+
 ## [2025.11]
 
 - Fix: Testimonial spacing
@@ -623,7 +628,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2025.11...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2025.12...HEAD
+[2025.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.12
 [2025.11]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.11
 [2025.10]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.10
 [2025.09]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.09
