@@ -6,6 +6,10 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 ## [Unreleased]
 
+## [2025.14]
+
+- Change: Upate 171r2 to 800-53r5 mapping
+
 ## [2025.13]
 
 - Add: 171r2 to 800-53r5 mapping
@@ -633,7 +637,8 @@ format `YYYY.##`. For example, `2019.01` is the first release of 2019.
 
 - Add: one-page brochure-style website
 
-[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2025.13...HEAD
+[Unreleased]: https://github.com/opticcyber/opticcyber.github.io/compare/2025.14...HEAD
+[2025.14]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.14
 [2025.13]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.13
 [2025.12]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.12
 [2025.11]: https://github.com/opticcyber/opticcyber.github.io/releases/tag/2025.11
